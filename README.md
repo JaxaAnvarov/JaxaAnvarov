@@ -12,7 +12,7 @@
 - 🔋  I’m currently learning <b>Flutter</b> .<br>
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: yaxshidasturchi@gmail.com<br>
-- 😄 My website: https://asadbek.hashnode.dev/<br>
+- 😄 My website: https://t.me/anvarov_jahongir_blog/<br>
 - ⚡️ Fun fact: I use linux🐧
 <br>
 <br>
@@ -50,7 +50,7 @@
 <b> <h2 align="center">💻 My Github activity </h2></b>
 <p>
   
-<img src="https://github-readme-stats.vercel.app/api?username=asadbekdev&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px">      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadbekdev&theme=radical&title_color=8E2DE2&text_color=fff)
+<img src="https://github-readme-stats.vercel.app/api?username=asadbekdev&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" width="500px">      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaxaAnvarov&theme=radical&title_color=8E2DE2&text_color=fff)
 </p>
 <br>
 <br>
