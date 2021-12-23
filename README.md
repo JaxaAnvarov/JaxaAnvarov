@@ -28,28 +28,18 @@
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 <br>
-<b> <h2 align="center"> 🛠️ Languages and Tools </h2> </b>
-<p align="center">  
+<b> 
+  
 
-  ![flutter](https://img.shields.io/badge/-flutter-grey?style=for-the-badge&logo=dlutter&logoColor=white&labelColor=0075BA)
-  ![Dart](https://img.shields.io/badge/-dart-grey?style=for-the-badge&logo=dart&logoColor=white&labelColor=0075BA)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F0DB4F)
-  ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
-  ![django](https://img.shields.io/badge/-django-grey?style=for-the-badge&logo=django&logoColor=white&labelColor=092e20)
-  ![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFA611)
-  ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=211F1F)
-  <br>
-  ![linux](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux&logoColor=white&labelColor=072c61)
-  ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529)
-  ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=264de4)
-  ![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=CD6799)
-  ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-
+<p aling="center"> 
+   <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> 
 </p>
+
+
+
+
 <br>
 <b> <h2 align="center">💻 My Github activity </h2></b>
-
-
 <p  align="center">
   <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
   <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
