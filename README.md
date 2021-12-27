@@ -31,7 +31,7 @@
 <b> 
   
 
-<p aling="center"> 
+<p aling="center" style = "text-align: center;"> 
    <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> 
 </p>
 
